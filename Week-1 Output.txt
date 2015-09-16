@@ -1,0 +1,79 @@
+dyn-160-39-220-119:~ Skylar$ python /Users/Skylar/Google\ Drive/Data\ Mining\ the\ City/week-1/week-1.py 
+
+start game 0
+Player 0 won this hand. Their 6 beat the Dealer's 5.
+Player 1 lost this hand. Their 0 was beat by the Dealer's 1.
+Player 2 lost this hand. Their 1 was beat by the Dealer's 8.
+Player 3 lost this hand. Their 4 was beat by the Dealer's 8.
+Player 4 lost this hand. Their 4 was beat by the Dealer's 9.
+
+start game 1
+Player 0 won this hand. Their 3 beat the Dealer's 3.
+Player 1 lost this hand. Their 4 was beat by the Dealer's 9.
+Player 2 lost this hand. Their 3 was beat by the Dealer's 6.
+Player 3 won this hand. Their 8 beat the Dealer's 4.
+Player 4 lost this hand. Their 5 was beat by the Dealer's 6.
+
+start game 2
+Player 0 lost this hand. Their 1 was beat by the Dealer's 8.
+Player 1 lost this hand. Their 7 was beat by the Dealer's 8.
+Player 2 lost this hand. Their 6 was beat by the Dealer's 9.
+Player 3 won this hand. Their 7 beat the Dealer's 7.
+Player 4 lost this hand. Their 0 was beat by the Dealer's 8.
+
+start game 3
+Player 0 won this hand. Their 9 beat the Dealer's 6.
+Player 1 lost this hand. Their 2 was beat by the Dealer's 7.
+Player 2 won this hand. Their 3 beat the Dealer's 2.
+Player 3 won this hand. Their 6 beat the Dealer's 6.
+Player 4 won this hand. Their 3 beat the Dealer's 2.
+
+start game 4
+Player 0 lost this hand. Their 5 was beat by the Dealer's 9.
+Player 1 lost this hand. Their 5 was beat by the Dealer's 9.
+Player 2 lost this hand. Their 5 was beat by the Dealer's 7.
+Player 3 lost this hand. Their 5 was beat by the Dealer's 6.
+Player 4 lost this hand. Their 1 was beat by the Dealer's 3.
+
+start game 5
+Player 0 lost this hand. Their 0 was beat by the Dealer's 7.
+Player 1 won this hand. Their 9 beat the Dealer's 0.
+Player 2 won this hand. Their 8 beat the Dealer's 1.
+Player 3 won this hand. Their 5 beat the Dealer's 3.
+Player 4 won this hand. Their 9 beat the Dealer's 0.
+
+start game 6
+Player 0 won this hand. Their 8 beat the Dealer's 5.
+Player 1 won this hand. Their 9 beat the Dealer's 1.
+Player 2 lost this hand. Their 3 was beat by the Dealer's 4.
+Player 3 won this hand. Their 8 beat the Dealer's 3.
+Player 4 lost this hand. Their 2 was beat by the Dealer's 9.
+
+start game 7
+Player 0 won this hand. Their 4 beat the Dealer's 1.
+Player 1 lost this hand. Their 0 was beat by the Dealer's 9.
+Player 2 won this hand. Their 9 beat the Dealer's 5.
+Player 3 lost this hand. Their 3 was beat by the Dealer's 4.
+Player 4 lost this hand. Their 2 was beat by the Dealer's 9.
+
+start game 8
+Player 0 won this hand. Their 5 beat the Dealer's 1.
+Player 1 lost this hand. Their 5 was beat by the Dealer's 7.
+Player 2 won this hand. Their 6 beat the Dealer's 0.
+Player 3 won this hand. Their 9 beat the Dealer's 4.
+Player 4 won this hand. Their 7 beat the Dealer's 2.
+
+start game 9
+Player 0 won this hand. Their 5 beat the Dealer's 5.
+Player 1 lost this hand. Their 6 was beat by the Dealer's 8.
+Player 2 won this hand. Their 2 beat the Dealer's 0.
+Player 3 lost this hand. Their 1 was beat by the Dealer's 3.
+Player 4 won this hand. Their 5 beat the Dealer's 3.
+
+game results:
+Player 0 has $700
+Player 1 has $200
+Player 2 has $500
+Player 3 has $600
+Player 4 has $400
+dyn-160-39-220-119:~ Skylar$ 
